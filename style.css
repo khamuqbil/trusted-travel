@@ -20,6 +20,15 @@ h1{
   direction: inherit;
   padding: 13px;
 }
-embed{
+iframe{
   margin-top: 25px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2d5986;
+  color: white;
+  text-align: center;
 }
