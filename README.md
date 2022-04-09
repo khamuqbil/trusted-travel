@@ -21,3 +21,4 @@ So when the traveler came into the check-in area scan the QR code and submit the
 
 - Run your python code ~ `python filename.py`
 
+[TravelReqQrCode.pdf](https://github.com/khamuqbil/trusted-travel/files/8457758/TravelReqQrCode.pdf)
